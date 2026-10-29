@@ -1,0 +1,7 @@
+OC COMMERCE — APPLICATION PORTABLE WINDOWS
+
+Lancez OC_Commerce.exe. Gardez ensemble l'exécutable et les dossiers app et runtime.
+
+Logo OC Commerce intégré à l'écran d'accueil, au menu, aux fenêtres et à l'icône Windows.
+Cette édition conserve la connexion locale à MySQL : localhost:3306, base gestion_commerce.
+La base locale ne fait pas partie de cette archive.

@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1300" height="360" viewBox="0 0 1300 360" role="img" aria-labelledby="title desc">
+  <title id="title">OC Commerce — Gestion commerciale</title>
+  <desc id="desc">Un sac de commerce blanc avec un graphique de croissance bleu et vert sur fond bleu nuit.</desc>
+  <defs>
+    <linearGradient id="brand" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#102E50"/>
+      <stop offset="1" stop-color="#2675C9"/>
+    </linearGradient>
+    <linearGradient id="growth" x1="0" y1="1" x2="1" y2="0">
+      <stop offset="0" stop-color="#17A879"/>
+      <stop offset="1" stop-color="#56C896"/>
+    </linearGradient>
+  </defs>
+  <g transform="translate(20 20)">
+    <rect width="320" height="320" rx="76" fill="url(#brand)"/>
+    <path d="M112 129 C112 87 139 63 160 63 C181 63 208 87 208 129" fill="none" stroke="#FFFFFF" stroke-width="16" stroke-linecap="round"/>
+    <path d="M74 126 Q74 116 86 116 H234 Q246 116 246 128 L263 248 Q264 264 247 264 H73 Q56 264 57 248 Z" fill="#FFFFFF"/>
+    <path d="M93 226 H229" fill="none" stroke="#E4EDF6" stroke-width="5" stroke-linecap="round"/>
+    <rect x="101" y="193" width="25" height="33" rx="6" fill="#85B6E8"/>
+    <rect x="141" y="170" width="25" height="56" rx="6" fill="#478FD5"/>
+    <rect x="181" y="146" width="25" height="80" rx="6" fill="#1D68B5"/>
+    <path d="M91 184 L133 162 L166 171 L220 129" fill="none" stroke="url(#growth)" stroke-width="10" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M198 128 L222 127 L220 151" fill="none" stroke="#17A879" stroke-width="10" stroke-linecap="round" stroke-linejoin="round"/>
+    <circle cx="92" cy="184" r="7" fill="#17A879"/>
+  </g>
+  <g font-family="Segoe UI, Arial, sans-serif">
+    <text x="390" y="173" fill="#153758" font-size="112" font-weight="700" letter-spacing="-5">OC</text>
+    <text x="550" y="171" fill="#2473BC" font-size="68" font-weight="700" letter-spacing="9">COMMERCE</text>
+    <rect x="396" y="215" width="76" height="7" rx="3.5" fill="#19A879"/>
+    <text x="493" y="224" fill="#60758B" font-size="30" font-weight="600" letter-spacing="5">GESTION COMMERCIALE</text>
+    <text x="396" y="280" fill="#8292A3" font-size="22" font-weight="400" letter-spacing="1.5">Ventes · Stocks · Achats · Clients</text>
+  </g>
+</svg>
